@@ -6,4 +6,4 @@ Connection to Spotify API to generate a WordCloud with the shape of a zeppelin s
 *Español*
 
 # Data analysis con data sobre Led Zeppelin III 
-Conexion a la API de Spotify para generar un WordCloud con la forma de un zeppelin mostrando las canciones más populares del album Led Zeppelin III según Spotify.
+Conexión a la API de Spotify para generar un WordCloud con la forma de un zeppelin mostrando las canciones más populares del album Led Zeppelin III según Spotify.
